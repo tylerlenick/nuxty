@@ -1,5 +1,8 @@
 <template>
-  <Tutorial/>
+  <div>
+    <Ball/>
+    <Bat/>
+  </div>
 </template>
 
 <script lang="ts">
