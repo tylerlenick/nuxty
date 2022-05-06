@@ -1,4 +1,3 @@
-<!-- Please remove this file from your project -->
 <template>
   <div v-bind:style="{transform: `rotate(${deg}deg)`}" @click="swingBat" class="square"></div>
 </template>

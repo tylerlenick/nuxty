@@ -1,7 +1,6 @@
 <template>
   <div>
-    <Ball/>
-    <Bat/>
+    Hey
   </div>
 </template>
 
